@@ -1,0 +1,22 @@
+# Predicting the Survival of Patients with Heart Failure
+
+Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year. CVDs are a group of disorders of the heart and blood vessels and include coronary heart disease, cerebrovascular disease, rheumatic heart disease and other conditions. Four out of 5CVD deaths are due to heart attacks and strokes, and one third of these deaths occur prematurely in people under 70 years of age.
+Most cardiovascular diseases can be prevented by addressing behavioural risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.
+
+
+
+<p align="center">
+<img src="https://americanaddictioncenters.org/wp-content/uploads/2016/06/heart-icon.png" width="250" height="250" />
+</p>
+Individuals at risk of CVD may demonstrate raised blood pressure, glucose, and lipids as well as overweight and obesity. These can all be easily measured in primary care facilities. Identifying those at highest risk of CVDs and ensuring they receive appropriate treatment can prevent premature deaths. Access to essential noncommunicable disease medicines and basic health technologies in all primary health care facilities is essential to ensure that those in need receive treatment and counselling.
+
+# Demo
+The web app is available at :
+
+![](https://i.imgur.com/Yrn231v.png)
+
+
+# References
+* https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5
+* https://github.com/batmanscode/breastcancer-predictor
+* https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records

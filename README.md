@@ -19,7 +19,7 @@ The dataset contains medical records of 299 patients who had heart failure, coll
 # Demo
 The web app is available at : https://heartfailure-predictor.herokuapp.com/
 
-Kaggle Kernel: 
+Kaggle Kernel:  https://www.kaggle.com/gabbygab/patients-survival-prediction-web-application
 
 
 ![](https://i.imgur.com/Yrn231v.png)

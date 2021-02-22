@@ -113,7 +113,7 @@ if st.button("Predict"):
 st.sidebar.subheader("Source code")
 st.sidebar.info('''
 
-[![Github](https://i.ibb.co/vDLv9z9/iconfinder-mark-github-298822-3.png)](https://streamlit.io)
+[![Github](https://i.ibb.co/vDLv9z9/iconfinder-mark-github-298822-3.png)](https://github.com/gabbygab1233/Heart-Failure-Predictor-Application)
 **Github**
 ''')    
 

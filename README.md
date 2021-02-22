@@ -17,7 +17,10 @@ The dataset contains medical records of 299 patients who had heart failure, coll
 ![](https://i.imgur.com/niqOo77.png)
 
 # Demo
-The web app is available at :
+The web app is available at : https://heartfailure-predictor.herokuapp.com/
+
+Kaggle Kernel: 
+
 
 ![](https://i.imgur.com/Yrn231v.png)
 

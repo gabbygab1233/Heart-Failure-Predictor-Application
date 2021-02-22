@@ -10,6 +10,12 @@ Most cardiovascular diseases can be prevented by addressing behavioural risk fac
 </p>
 Individuals at risk of CVD may demonstrate raised blood pressure, glucose, and lipids as well as overweight and obesity. These can all be easily measured in primary care facilities. Identifying those at highest risk of CVDs and ensuring they receive appropriate treatment can prevent premature deaths. Access to essential noncommunicable disease medicines and basic health technologies in all primary health care facilities is essential to ensure that those in need receive treatment and counselling.
 
+# Dataset
+The dataset contains medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical features. https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
+
+### Attributes information:
+![](https://i.imgur.com/niqOo77.png)
+
 # Demo
 The web app is available at :
 

@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabbygab1233%2FHeart-Failure-Predictor-Application&count_bg=%23231920&title_bg=%23F76767&icon=&icon_color=%23E7E7E7&title=Heart+Failure+Predictor&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Predicting the Survival of Patients with Heart Failure
 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year. CVDs are a group of disorders of the heart and blood vessels and include coronary heart disease, cerebrovascular disease, rheumatic heart disease and other conditions. Four out of 5CVD deaths are due to heart attacks and strokes, and one third of these deaths occur prematurely in people under 70 years of age.

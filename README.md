@@ -25,7 +25,7 @@ The dataset contains medical records of 299 patients who had heart failure, coll
  * **Performance Evaluation**
     * Splitting the dataset by 80 % for training set and 20 % validation set.
  * **Training and Validation**
-    * After training and experimenting different algorithms using ensemble models have good accuracy score than using linear and nonlinear models.
+    * After training and experimenting different algorithms using ensemble models have good accuracy score than linear and nonlinear models.
     * Gradient Boosting Classifier ( 93 % accuracy score )
  * **Fine Tuning**
     * Using {'learning_rate': 0.1, 'max_depth': 9, 'n_estimators': 1000, 'subsample': 0.7} for Gradient Boosting Classifier improved the accuracy by 1 %.

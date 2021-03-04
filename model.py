@@ -153,7 +153,7 @@ def classification_metrics(model, conf_matrix):
     sns.heatmap(pd.DataFrame(conf_matrix), annot = True, cmap = 'YlGnBu',fmt = 'g')
     ax.xaxis.set_label_position('top')
     plt.tight_layout()
-    plt.title('Confusion matrix for Logisitic Regression Model', fontsize=20, y=1.1)
+    plt.title('Confusion Matrix', fontsize=20, y=1.1)
     plt.ylabel('Actual label', fontsize=15)
     plt.xlabel('Predicted label', fontsize=15)
     plt.show()
@@ -227,7 +227,7 @@ for mean, stdev, param in zip(means, stds, params):
 # Predict unseen data
 pipeline = make_pipeline(MinMaxScaler(),  GradientBoostingClassifier(learning_rate=0.1, max_depth=9, n_estimators=1000, subsample=0.7))
 model = pipeline.fit(X_train, y_train)
-y_pred = pipeline.predict(X_test)
+y_pred = model.predict(X_test)
 conf_matrix = confusion_matrix(y_test,y_pred)
 classification_metrics(pipeline, conf_matrix)
 roc_auc(y_test, y_pred)
